@@ -70,12 +70,6 @@ npm run dev
 
 6. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-## Deploying to Vercel
-
-1. Push your code to GitHub and import the project in [Vercel](https://vercel.com).
-2. **If your repo root is a parent folder** (e.g. `winter hackathon/` with `winterhack/` inside): In Vercel Project Settings → General → **Root Directory**, set it to `winterhack`.
-3. Add environment variables: `NEXT_PUBLIC_FIREBASE_API_KEY`, `NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN`, `NEXT_PUBLIC_FIREBASE_PROJECT_ID`, `NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET`, `NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID`, `NEXT_PUBLIC_FIREBASE_APP_ID`.
-4. Deploy.
 
 ## Project Structure
 
@@ -116,10 +110,6 @@ winterhack/
 ## Contributing
 
 This is a hackathon project. Feel free to contribute and improve!
-
-## License
-
-MIT License
 
 ## Support
 
