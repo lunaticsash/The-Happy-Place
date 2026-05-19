@@ -1,6 +1,7 @@
 # 🌟 The Happy Place
 
 An inclusive platform designed to empower everyone through assistive technology, specialized learning, and inclusion education.
+https://the-happy-place.vercel.app/
 
 ## Features
 
